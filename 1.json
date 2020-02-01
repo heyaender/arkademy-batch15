@@ -1,0 +1,77 @@
+{
+    "biodata": {
+        "nama" : "Andrianto Cahyono Putro",
+        "umur": 23,
+        "alamatLengkap": "Desa Krembangan RT 03 RW 01, Taman, Sidoarjo 61212",
+        "hobi": [
+            "menyanyi",
+            "jalan-jalan",
+            "makan",
+            "minum",
+            "tech talk"
+        ],
+        "sudahMenikah": false,
+        "riwayatPendidikan": [
+            {
+                "namaSekolah": "TK Dharma Wanita Taman",
+                "tahunMasuk": "2001",
+                "tahunKeluar": "2002"
+            },
+            {
+                "namaSekolah": "SDN Krembangan Taman",
+                "tahunMasuk": "2002",
+                "tahunKeluar": "2008"
+            },
+            {
+                "namaSekolah": "SMP Al-Islam Krian",
+                "tahunMasuk": "2008",
+                "tahunKeluar": "2011"
+            },
+            {
+                "namaSekolah": "SMK YPM 1 Taman Sidoarjo",
+                "tahunMasuk": "2011",
+                "tahunKeluar": "2014"
+            },
+            {
+                "namaSekolah": "Universitas 17 Agustus 1945 Surabaya",
+                "tahunMasuk": "2014",
+                "tahunKeluar": "2018"
+            }
+        ],
+        "skill": [
+            {
+                "namaSkill": "MikroTik",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "Cisco Packet Tracer",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "LAN/WAN Installation",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "Hadware&Software Troubleshooting",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "MySQL",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "Linux Debian Server",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "Photoshops",
+                "level": "Beginner"
+            },
+            {
+                "namaSkill": "HTML&CSS",
+                "level": "Beginner"
+            }
+        ],
+        "interest_in_coding" : true
+    }
+}
