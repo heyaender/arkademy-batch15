@@ -1,14 +1,14 @@
 {
-    "biodata": {
+    "biodata diri" : {
+
         "nama" : "Andrianto Cahyono Putro",
         "umur": 23,
-        "alamatLengkap": "Desa Krembangan RT 03 RW 01, Taman, Sidoarjo 61212",
+        "alamat": "Desa Krembangan RT 03 RW 01, Taman, Sidoarjo 61212",
         "hobi": [
-            "menyanyi",
-            "jalan-jalan",
-            "makan",
-            "minum",
-            "tech talk"
+                "Singing",
+                "Traveling",
+                "Fishing",
+                "Tech Talk"
         ],
         "sudahMenikah": false,
         "riwayatPendidikan": [
